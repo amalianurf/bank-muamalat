@@ -113,7 +113,7 @@
                             $suku_bunga_bulanan = $suku_bunga_tahunan/12;
                             $jumlah_cicilan = $jangka_waktu_kredit * 12;
 
-                            $faktor_pengali = (1-pow(1 + $suku_bunga_bulanan,-$cicilan_lainnya))/$suku_bunga_bulanan;
+                            $faktor_pengali = (((1-pow(1 + $suku_bunga_bulanan,-$cicilan_lainnya))/$suku_bunga_bulanan)/100)*5;
                             $limit_kredit = $pendapatan * $faktor_pengali;
 
                             //Angsuran bulanan
