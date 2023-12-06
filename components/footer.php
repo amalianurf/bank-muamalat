@@ -2,7 +2,7 @@
     <div class="footer-item">
         <div class="left-item">
             <div class="left-1">
-                <img src="../muamalat-flow/image/logo2.png" alt="logo-bank-muamalat" />
+                <img src="public/img/logo/logo2.png" alt="logo-bank-muamalat" />
                 <p class="alamat">
                     Kantor Pusat Jl. Raya Prof Dr Satrio, Kav. 18, Kelurahan Karet
                     Kuningan, Kecamatan Setiabudi Kota Administrasi Jakarta Selatan,
